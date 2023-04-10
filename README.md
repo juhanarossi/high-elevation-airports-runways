@@ -10,4 +10,4 @@ The csv files containing both raw and refined data are in the `data` folder. The
  ## Webpage
 The code and images for the webpage are in the `docs` folder. The webpage is [here](https://juhanarossi.github.io/high_elevation_airports-runways/). I worked with `css` and created a style sheet through trial and error.
 ## Lessons Learned
-This project was about learning to create effective charts that illustrate data effective with nothing redundant and with as few design flaws as possible. I made progress in this area. The step is to learn to use `ggplot` and `illustrator` to make the charts more effective.
+This project was about learning to create effective charts that illustrate data effective with nothing redundant and with as few design flaws as possible. I made progress in this area. My next step is to learn to use `ggplot` and `illustrator` to make the charts more effective.
